@@ -1,0 +1,3 @@
+/Users/miguelmercado/Documents/Herencia_multiple/cmake-build-debug/CMakeFiles/Herencia_multiple.dir
+/Users/miguelmercado/Documents/Herencia_multiple/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/miguelmercado/Documents/Herencia_multiple/cmake-build-debug/CMakeFiles/rebuild_cache.dir
